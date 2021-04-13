@@ -4,3 +4,4 @@ git add . - добавить все изменения в комит
 git commit -am "" - закоммитеть изменения
 git config --global user.name "John Doe" - идентификация- ввод имени
 git config --global user.email johndoe@example.com идентификация- ввод электронной почты
+git mv first second - переименование файла first  в second
