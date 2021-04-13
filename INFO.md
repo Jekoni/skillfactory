@@ -1,7 +1,5 @@
-git clone - клонирование репозитоия в текущую папку
-git status- получение информации об изменениях, которых нет в коммите
-git add . - добавить все изменения в комит
-git commit -am "" - закоммитеть изменения
-git config --global user.name "John Doe" - идентификация- ввод имени
-git config --global user.email johndoe@example.com идентификация- ввод электронной почты
-git mv first second - переименование файла first  в second
+git branch имя_ветки - создание новой ветки
+git push origin имя_ветки  - отправить данные на ветку
+git checkout имя_ветки - переключится на ветку
+git checkout -  перебрасывает на предыдущую ветку
+git checkout -b имя_ветки - создает новую ветку и переключает на нее
